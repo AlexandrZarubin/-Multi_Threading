@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "004_lambda", "004_lambda\00
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "005_class_method_in_thread", "005_class_method_in_thread\005_class_method_in_thread.vcxproj", "{117CEE06-77E8-47D9-A022-DF83D0B7B77A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "006_mutex", "006_mutex\006_mutex.vcxproj", "{0C815D16-EC7F-4BFC-95D9-8AF8F65E4017}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{117CEE06-77E8-47D9-A022-DF83D0B7B77A}.Release|x64.Build.0 = Release|x64
 		{117CEE06-77E8-47D9-A022-DF83D0B7B77A}.Release|x86.ActiveCfg = Release|Win32
 		{117CEE06-77E8-47D9-A022-DF83D0B7B77A}.Release|x86.Build.0 = Release|Win32
+		{0C815D16-EC7F-4BFC-95D9-8AF8F65E4017}.Debug|x64.ActiveCfg = Debug|x64
+		{0C815D16-EC7F-4BFC-95D9-8AF8F65E4017}.Debug|x64.Build.0 = Debug|x64
+		{0C815D16-EC7F-4BFC-95D9-8AF8F65E4017}.Debug|x86.ActiveCfg = Debug|Win32
+		{0C815D16-EC7F-4BFC-95D9-8AF8F65E4017}.Debug|x86.Build.0 = Debug|Win32
+		{0C815D16-EC7F-4BFC-95D9-8AF8F65E4017}.Release|x64.ActiveCfg = Release|x64
+		{0C815D16-EC7F-4BFC-95D9-8AF8F65E4017}.Release|x64.Build.0 = Release|x64
+		{0C815D16-EC7F-4BFC-95D9-8AF8F65E4017}.Release|x86.ActiveCfg = Release|Win32
+		{0C815D16-EC7F-4BFC-95D9-8AF8F65E4017}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
