@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "007_lock_guard_mutex", "007
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "008_deadlock", "008_deadlock\008_deadlock.vcxproj", "{EF769A22-F811-465F-BDEC-2BF03E09D0A2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "009_recursive_mutex", "009_recursive_mutex\009_recursive_mutex.vcxproj", "{25FB5035-64F9-4DE4-ACC5-92727CE3729E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{EF769A22-F811-465F-BDEC-2BF03E09D0A2}.Release|x64.Build.0 = Release|x64
 		{EF769A22-F811-465F-BDEC-2BF03E09D0A2}.Release|x86.ActiveCfg = Release|Win32
 		{EF769A22-F811-465F-BDEC-2BF03E09D0A2}.Release|x86.Build.0 = Release|Win32
+		{25FB5035-64F9-4DE4-ACC5-92727CE3729E}.Debug|x64.ActiveCfg = Debug|x64
+		{25FB5035-64F9-4DE4-ACC5-92727CE3729E}.Debug|x64.Build.0 = Debug|x64
+		{25FB5035-64F9-4DE4-ACC5-92727CE3729E}.Debug|x86.ActiveCfg = Debug|Win32
+		{25FB5035-64F9-4DE4-ACC5-92727CE3729E}.Debug|x86.Build.0 = Debug|Win32
+		{25FB5035-64F9-4DE4-ACC5-92727CE3729E}.Release|x64.ActiveCfg = Release|x64
+		{25FB5035-64F9-4DE4-ACC5-92727CE3729E}.Release|x64.Build.0 = Release|x64
+		{25FB5035-64F9-4DE4-ACC5-92727CE3729E}.Release|x86.ActiveCfg = Release|Win32
+		{25FB5035-64F9-4DE4-ACC5-92727CE3729E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
